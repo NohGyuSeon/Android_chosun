@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWidget</string>
+    <string name="person_name">통장 이름</string>
+</resources>
